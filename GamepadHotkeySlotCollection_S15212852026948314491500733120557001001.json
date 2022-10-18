@@ -1,0 +1,1296 @@
+{
+  "315606016928580610;315606016928580609;315623609114625025": {
+    "ControllerTypes": [
+      "Consumer",
+      "System",
+      "Keyboard"
+    ],
+    "ControllerFamily": "Keyboard",
+    "DisplayName": "USB Keyboard",
+    "Slot1AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_LCONTROL",
+          "AltDescription": "",
+          "ShortFriendlyName": "LCtrl",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "LCtrl"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_LSHIFT",
+          "AltDescription": "",
+          "ShortFriendlyName": "LShift",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "LShift"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_F1",
+          "AltDescription": "",
+          "ShortFriendlyName": "F1",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "F1"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "Slot2AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_LCONTROL",
+          "AltDescription": "",
+          "ShortFriendlyName": "LCtrl",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "LCtrl"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_LSHIFT",
+          "AltDescription": "",
+          "ShortFriendlyName": "LShift",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "LShift"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_F2",
+          "AltDescription": "",
+          "ShortFriendlyName": "F2",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "F2"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "Slot3AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_LCONTROL",
+          "AltDescription": "",
+          "ShortFriendlyName": "LCtrl",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "LCtrl"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_LSHIFT",
+          "AltDescription": "",
+          "ShortFriendlyName": "LShift",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "LShift"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_F3",
+          "AltDescription": "",
+          "ShortFriendlyName": "F3",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "F3"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "GamepadOverlayAssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_LCONTROL",
+          "AltDescription": "",
+          "ShortFriendlyName": "LCtrl",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "LCtrl"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_LSHIFT",
+          "AltDescription": "",
+          "ShortFriendlyName": "LShift",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "LShift"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_F12",
+          "AltDescription": "",
+          "ShortFriendlyName": "F12",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "F12"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "MappingOverlayAssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_LCONTROL",
+          "AltDescription": "",
+          "ShortFriendlyName": "LCtrl",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "LCtrl"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_LSHIFT",
+          "AltDescription": "",
+          "ShortFriendlyName": "LShift",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "LShift"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_F11",
+          "AltDescription": "",
+          "ShortFriendlyName": "F11",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "F11"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "MappingDescriptionsOverlayAssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "Slot4AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_LCONTROL",
+          "AltDescription": "",
+          "ShortFriendlyName": "LCtrl",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "LCtrl"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_LSHIFT",
+          "AltDescription": "",
+          "ShortFriendlyName": "LShift",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "LShift"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "KeyboardStandart",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "DIK_F4",
+          "AltDescription": "",
+          "ShortFriendlyName": "F4",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "F4"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "IsSlot1Enabled": true,
+    "IsSlot2Enabled": true,
+    "IsSlot3Enabled": true,
+    "IsGamepadOverlayEnabled": true,
+    "IsMappingOverlayEnabled": true,
+    "IsSlot4Enabled": true,
+    "AdditionalParameters": {}
+  },
+  "319019727390375937": {
+    "ControllerTypes": [
+      "Mouse"
+    ],
+    "ControllerFamily": "Mouse",
+    "DisplayName": "USB Optical Mouse",
+    "Slot1AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "Slot2AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "Slot3AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "GamepadOverlayAssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "MappingOverlayAssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "MappingDescriptionsOverlayAssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "Slot4AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "IsSlot1Enabled": false,
+    "IsSlot2Enabled": false,
+    "IsSlot3Enabled": false,
+    "IsGamepadOverlayEnabled": true,
+    "IsMappingOverlayEnabled": true,
+    "IsSlot4Enabled": false,
+    "AdditionalParameters": {}
+  },
+  "164804815809918": {
+    "ControllerTypes": [
+      "XboxOne"
+    ],
+    "ControllerFamily": "Gamepad",
+    "DisplayName": "Xbox One",
+    "Slot1AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_5"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_7"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_1"
+      }
+    ],
+    "Slot2AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_5"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_7"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_2"
+      }
+    ],
+    "Slot3AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_5"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_7"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_3"
+      }
+    ],
+    "GamepadOverlayAssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_8"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_DPAD_DOWN"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_DPAD_RIGHT"
+      }
+    ],
+    "MappingOverlayAssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_8"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_DPAD_UP"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_DPAD_LEFT"
+      }
+    ],
+    "MappingDescriptionsOverlayAssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "Slot4AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_5"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_7"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BUTTON_4"
+      }
+    ],
+    "IsSlot1Enabled": true,
+    "IsSlot2Enabled": true,
+    "IsSlot3Enabled": true,
+    "IsGamepadOverlayEnabled": true,
+    "IsMappingOverlayEnabled": true,
+    "IsSlot4Enabled": true,
+    "AdditionalParameters": {}
+  },
+  "164804815809918;315606016928580610;315606016928580609;315623609114625025;319019727390375937": {
+    "ControllerTypes": [
+      "XboxOne",
+      "Consumer",
+      "System",
+      "Keyboard",
+      "Mouse"
+    ],
+    "ControllerFamily": "Composite",
+    "DisplayName": "<font color=\"#858585\">Xbox One</font> + USB Keyboard + USB Optical Mouse",
+    "Slot1AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "Slot2AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "Slot3AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "GamepadOverlayAssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "MappingOverlayAssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "MappingDescriptionsOverlayAssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "Slot4AssociatedButtonCollection": [
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      },
+      {
+        "KeyScanCode": {
+          "KeyScanCodeCategory": "Empty",
+          "VirtualGamepadButton": null,
+          "MappedKeyType": "KeyScanCodeV2",
+          "Description": "",
+          "AltDescription": "",
+          "ShortFriendlyName": "None",
+          "PCKeyCategory": "Normal",
+          "RewasdUserCommandType": "Common",
+          "FriendlyName": "None"
+        },
+        "GamepadButton": "BTN_NOT_SELECTED"
+      }
+    ],
+    "IsSlot1Enabled": false,
+    "IsSlot2Enabled": false,
+    "IsSlot3Enabled": false,
+    "IsGamepadOverlayEnabled": true,
+    "IsMappingOverlayEnabled": true,
+    "IsSlot4Enabled": false,
+    "AdditionalParameters": {}
+  }
+}

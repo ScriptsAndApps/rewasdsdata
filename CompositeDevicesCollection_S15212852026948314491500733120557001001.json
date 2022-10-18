@@ -1,0 +1,111 @@
+[
+  {
+    "ControllerProfileInfoCollections": [
+      {
+        "ControllerFamily": "Gamepad",
+        "ControllerProfileInfos": [
+          {
+            "ControllerType": "XboxOne",
+            "Id": 164804815809918,
+            "VendorId": 0,
+            "ProductId": 0,
+            "AnalogTriggersPresent": true,
+            "GyroscopePresent": false,
+            "AccelerometerPresent": false,
+            "IsPS2": false,
+            "TriggerRumbleMotorPresent": true,
+            "MotorRumbleMotorPresent": true,
+            "TouchpadPresent": false,
+            "AdaptiveTriggersPresent": false,
+            "ContainerId": "00000000-0000-0000-0000-000000000000",
+            "RightHandDevice": false,
+            "AdditionalParameters": {}
+          }
+        ]
+      },
+      {
+        "ControllerFamily": "Keyboard",
+        "ControllerProfileInfos": [
+          {
+            "ControllerType": "Consumer",
+            "Id": 315606016928580610,
+            "VendorId": 0,
+            "ProductId": 0,
+            "AnalogTriggersPresent": false,
+            "GyroscopePresent": false,
+            "AccelerometerPresent": false,
+            "IsPS2": false,
+            "TriggerRumbleMotorPresent": false,
+            "MotorRumbleMotorPresent": false,
+            "TouchpadPresent": false,
+            "AdaptiveTriggersPresent": false,
+            "ContainerId": "00000000-0000-0000-0000-000000000000",
+            "RightHandDevice": false,
+            "AdditionalParameters": {}
+          },
+          {
+            "ControllerType": "System",
+            "Id": 315606016928580609,
+            "VendorId": 0,
+            "ProductId": 0,
+            "AnalogTriggersPresent": false,
+            "GyroscopePresent": false,
+            "AccelerometerPresent": false,
+            "IsPS2": false,
+            "TriggerRumbleMotorPresent": false,
+            "MotorRumbleMotorPresent": false,
+            "TouchpadPresent": false,
+            "AdaptiveTriggersPresent": false,
+            "ContainerId": "00000000-0000-0000-0000-000000000000",
+            "RightHandDevice": false,
+            "AdditionalParameters": {}
+          },
+          {
+            "ControllerType": "Keyboard",
+            "Id": 315623609114625025,
+            "VendorId": 0,
+            "ProductId": 0,
+            "AnalogTriggersPresent": false,
+            "GyroscopePresent": false,
+            "AccelerometerPresent": false,
+            "IsPS2": false,
+            "TriggerRumbleMotorPresent": false,
+            "MotorRumbleMotorPresent": false,
+            "TouchpadPresent": false,
+            "AdaptiveTriggersPresent": false,
+            "ContainerId": "00000000-0000-0000-0000-000000000000",
+            "RightHandDevice": false,
+            "AdditionalParameters": {}
+          }
+        ]
+      },
+      {
+        "ControllerFamily": "Mouse",
+        "ControllerProfileInfos": [
+          {
+            "ControllerType": "Mouse",
+            "Id": 319019727390375937,
+            "VendorId": 0,
+            "ProductId": 0,
+            "AnalogTriggersPresent": false,
+            "GyroscopePresent": false,
+            "AccelerometerPresent": false,
+            "IsPS2": false,
+            "TriggerRumbleMotorPresent": false,
+            "MotorRumbleMotorPresent": false,
+            "TouchpadPresent": false,
+            "AdaptiveTriggersPresent": false,
+            "ContainerId": "00000000-0000-0000-0000-000000000000",
+            "RightHandDevice": false,
+            "AdditionalParameters": {}
+          }
+        ]
+      },
+      {
+        "ControllerFamily": "Unknown",
+        "ControllerProfileInfos": []
+      }
+    ],
+    "AdditionalParameters": {}
+  }
+]

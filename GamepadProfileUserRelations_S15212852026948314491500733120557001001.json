@@ -1,0 +1,119 @@
+{
+  "164804815809918;315606016928580610;315606016928580609;315623609114625025;319019727390375937": {
+    "IsRemapToggled": false,
+    "SlotProfiles": {
+      "Slot1": {
+        "ConfigPath": "C:\\ProgramData\\Disc-Soft\\reWASD\\Profiles\\mouseascontrol\\Controller\\FORTNITE.rewasd",
+        "AdditionalParameters": {}
+      }
+    },
+    "ControllerProfileInfoCollections": [
+      {
+        "ControllerFamily": "Gamepad",
+        "ControllerProfileInfos": [
+          {
+            "ControllerType": "XboxOne",
+            "Id": 164804815809918,
+            "VendorId": 1118,
+            "ProductId": 746,
+            "AnalogTriggersPresent": true,
+            "GyroscopePresent": false,
+            "AccelerometerPresent": false,
+            "IsPS2": false,
+            "TriggerRumbleMotorPresent": true,
+            "MotorRumbleMotorPresent": true,
+            "TouchpadPresent": false,
+            "AdaptiveTriggersPresent": false,
+            "ContainerId": "f1785e66-b8ae-4c39-8cdf-2736e46cc9b0",
+            "RightHandDevice": false,
+            "AdditionalParameters": {}
+          }
+        ]
+      },
+      {
+        "ControllerFamily": "Keyboard",
+        "ControllerProfileInfos": [
+          {
+            "ControllerType": "Consumer",
+            "Id": 315606016928580610,
+            "VendorId": 1121,
+            "ProductId": 16,
+            "AnalogTriggersPresent": false,
+            "GyroscopePresent": false,
+            "AccelerometerPresent": false,
+            "IsPS2": false,
+            "TriggerRumbleMotorPresent": false,
+            "MotorRumbleMotorPresent": false,
+            "TouchpadPresent": false,
+            "AdaptiveTriggersPresent": false,
+            "ContainerId": "8254bcea-4c6e-11ed-b364-806e6f6e6963",
+            "RightHandDevice": false,
+            "AdditionalParameters": {}
+          },
+          {
+            "ControllerType": "System",
+            "Id": 315606016928580609,
+            "VendorId": 0,
+            "ProductId": 0,
+            "AnalogTriggersPresent": false,
+            "GyroscopePresent": false,
+            "AccelerometerPresent": false,
+            "IsPS2": false,
+            "TriggerRumbleMotorPresent": false,
+            "MotorRumbleMotorPresent": false,
+            "TouchpadPresent": false,
+            "AdaptiveTriggersPresent": false,
+            "ContainerId": "8254bcea-4c6e-11ed-b364-806e6f6e6963",
+            "RightHandDevice": false,
+            "AdditionalParameters": {}
+          },
+          {
+            "ControllerType": "Keyboard",
+            "Id": 315623609114625025,
+            "VendorId": 0,
+            "ProductId": 0,
+            "AnalogTriggersPresent": false,
+            "GyroscopePresent": false,
+            "AccelerometerPresent": false,
+            "IsPS2": false,
+            "TriggerRumbleMotorPresent": false,
+            "MotorRumbleMotorPresent": false,
+            "TouchpadPresent": false,
+            "AdaptiveTriggersPresent": false,
+            "ContainerId": "8254bcea-4c6e-11ed-b364-806e6f6e6963",
+            "RightHandDevice": false,
+            "AdditionalParameters": {}
+          }
+        ]
+      },
+      {
+        "ControllerFamily": "Mouse",
+        "ControllerProfileInfos": [
+          {
+            "ControllerType": "Mouse",
+            "Id": 319019727390375937,
+            "VendorId": 1133,
+            "ProductId": 49271,
+            "AnalogTriggersPresent": false,
+            "GyroscopePresent": false,
+            "AccelerometerPresent": false,
+            "IsPS2": false,
+            "TriggerRumbleMotorPresent": false,
+            "MotorRumbleMotorPresent": false,
+            "TouchpadPresent": false,
+            "AdaptiveTriggersPresent": false,
+            "ContainerId": "8254bce9-4c6e-11ed-b364-806e6f6e6963",
+            "RightHandDevice": false,
+            "AdditionalParameters": {}
+          }
+        ]
+      },
+      {
+        "ControllerFamily": "Unknown",
+        "ControllerProfileInfos": []
+      }
+    ],
+    "ID": "164804815809918;315606016928580610;315606016928580609;315623609114625025;319019727390375937",
+    "AdditionalParameters": {}
+  }
+}
